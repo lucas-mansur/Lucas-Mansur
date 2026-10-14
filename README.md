@@ -12,7 +12,7 @@ Transformo dados de várias fontes em modelos confiáveis e dashboards que apoia
 
 ## Projetos em destaque
 - [**curry-company-analytics**](https://github.com/lucas-mansur/curry-company-analytics): pipeline em camadas (bronze, silver, gold) com dbt e BigQuery, tratamento de falhas de GPS (cerca de 8% da base) e dashboards em Looker Studio.
-- [**BigQuery Release Notes Tracker**](https://github.com/lucas-mansur/Antigravity-CLI): app web (Python + Flask) para acompanhar as notas de versão do BigQuery.
+- [**BigQuery Release Notes Tracker**](https://github.com/lucas-mansur/bigquery-release-notes-tracker): app web (Python + Flask) para acompanhar as notas de versão do BigQuery.
 
 ## Estudando
 Microsoft Fabric (DP-600) · inglês técnico · Tecnologia em Sistemas da Computação (UFF)

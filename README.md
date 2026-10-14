@@ -17,6 +17,9 @@ Transformo dados de várias fontes em modelos confiáveis e dashboards que apoia
 ## Estudando
 Microsoft Fabric (DP-600) · inglês técnico · Tecnologia em Sistemas da Computação (UFF)
 
+## Contato
+[LinkedIn](https://www.linkedin.com/in/lucas-mansur-010854b7)
+
 ---
 
 **English summary:** Analytics Engineer with about 4 years in data. I build reliable data models (SQL, dbt, BigQuery) and BI dashboards. Currently working remotely at Tempest Security Intelligence and based in Rio de Janeiro.
